@@ -19,7 +19,7 @@ This project had a series of predefined steps to follow, with the analysis for e
 
 ## Instructions
 
-Save the files and data into the same folder, and use Jupyter Notebook to open finding_donors.ipynb.
+Save the files into the same folder, and use Jupyter Notebook to open finding_donors.ipynb.
 
 ## Files
 
