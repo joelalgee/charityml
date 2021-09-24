@@ -10,26 +10,13 @@ In this project, I applied supervised learning techniques to predict which membe
 
 This project had a series of predefined steps to follow, with the analysis for each step needing to be coded. Techniques called upon included feature transformation and scaling, AdaBoost classifier, Logistic Regression, Random Forest classifier, model tuning using a grid search, and extracting feature importances.
 
-## Package versions
-
-* python: 3.8.5
-* numpy: 1.19.1
-* pandas: 1.1.1
-* scikit-learn: 0.23.2
-
-## Instructions
-
-Save the files into the same folder, and use Jupyter Notebook to open finding_donors.ipynb.
+The custom packages for evaluation cannot be shared, so the only script available here is finding_donors.html, a static HTML version of the Jupyter Notebook file. The data is included for reference.
 
 ## Files
 
-### finding_donors.ipynb
-
-Contains the step-by-step analysis and discussion as an interactive Jupyter Notebook.
-
 ### finding_donors.html
 
-Static HTML version of the above.
+Static HTML version of the step-by-step analysis and discussion.
 
 ### census.csv
 
