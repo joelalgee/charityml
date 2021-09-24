@@ -37,4 +37,4 @@ Modified census dataset consisting of approximately 32,000 data points, with eac
 
 ## Credits
 
-This project, and parts of the code, were provided by [Udacity](https://www.udacity.com) as part of their [Intro to Machine Learning with Pytorch nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229). Data were provided by [UCI Center for Machine Learning and Intelligent Systems](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+This project, parts of the code, and the modified data were provided by [Udacity](https://www.udacity.com) as part of their [Intro to Machine Learning with Pytorch nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229). Original data were provided by [UCI Center for Machine Learning and Intelligent Systems](https://archive.ics.uci.edu/ml/datasets/Census+Income).
