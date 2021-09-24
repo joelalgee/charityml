@@ -35,6 +35,12 @@ Static HTML version of the above.
 
 Modified census dataset consisting of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. You may find this paper [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
+## Results
+
+The accuracy score for the model tuned through grid search was 0.88% better that that before tuning, and the F-score was 1.86% better. With 15 million potential letter recipients, an improvement of 1% accuracy could represent the difference between 150,000 letters being sent or not, which has a significant financial impact by reducing either needless cost or missed donation opportunities. An improved F-score suggests better precision, so less letters being sent to people who earn under $50K.
+
+The tuned model scores were a huge improvement on the naive predictor benchmarks (Accuracy score: 0.2478, F-score: 0.2917). This showed that the model provided significant, genuine insight.
+
 ## Credits
 
 This project, parts of the code, and the modified data were provided by [Udacity](https://www.udacity.com) as part of their [Intro to Machine Learning with Pytorch nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229). Original data were provided by [UCI Center for Machine Learning and Intelligent Systems](https://archive.ics.uci.edu/ml/datasets/Census+Income).
