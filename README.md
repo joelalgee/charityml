@@ -31,9 +31,9 @@ Contains the step-by-step analysis and discussion as an interactive Jupyter Note
 
 Static HTML version of the above.
 
-## Data
+### census.csv
 
-The data provided by UCI Center for Machine Learning and Intelligent Systems can be downloaded [here](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+Modified census dataset consisting of approximately 32,000 data points, with each datapoint having 13 features. This dataset is a modified version of the dataset published in the paper *"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid",* by Ron Kohavi. You may find this paper [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), with the original dataset hosted on [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 ## Credits
 
