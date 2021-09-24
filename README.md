@@ -8,7 +8,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 In this project, I applied supervised learning techniques to predict which members of the population earned above $50,000 based on census data.
 
-This project had a series of predefined steps to follow, with the analysis for each step needing to be coded. Techniques called upon included feature transformation and scaling, AdaBoost, Logistic Regression, Random Forest.
+This project had a series of predefined steps to follow, with the analysis for each step needing to be coded. Techniques called upon included feature transformation and scaling, AdaBoost classifier, Logistic Regression, Random Forest classifier, model tuning using a grid search, and extracting feature importances.
 
 ## Package versions
 
