@@ -1,4 +1,4 @@
-# CharityML Donor Prediction
+# CharityML Donor Prediction - October 2020
 
 Predicting the best donors for CharityML using supervised learning techniques in Python
 
